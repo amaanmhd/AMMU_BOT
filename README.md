@@ -15,7 +15,7 @@
 <a href="https://github.com/amaanmhd/fork"><img src="https://i.ibb.co/DGxXNpZ/AC268483-AECF-4-CEF-9-B61-C56-F89-D17519.jpg" alt="AC268483-AECF-4-CEF-9-B61-C56-F89-D17519" border="2" width="155" height="46"></a>
   ### Link Bot To Your Whatsapp.
   
-<a href="https://gpt-qr-code.onrender.com/ZUSYCO"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
+<a href="https://gpt-qr-code.onrender.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
 
 <a href="https://replit.com/@MRNima/ZUSYCO-PAIR-CODE?v=1"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
