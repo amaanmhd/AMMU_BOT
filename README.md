@@ -12,7 +12,7 @@
 <div align= "left">
 
   ### Frok AMMU-BOT Repository
-<a href="https://github.com/amaanmhd/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="AMAAN" border="2" width="155" height="46" ></a>
+<a href="https://github.com/amaanmhd/fork"><img src="https://i.ibb.co/DGxXNpZ/AC268483-AECF-4-CEF-9-B61-C56-F89-D17519.jpg" alt="AC268483-AECF-4-CEF-9-B61-C56-F89-D17519" border="2" width="155" height="46"></a>
   ### Link Bot To Your Whatsapp.
   
 <a href="https://gpt-qr-code.onrender.com/AMMU"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
