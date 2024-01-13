@@ -1,7 +1,7 @@
 {
-  "name": "AMMU-BOT",
+  "name": "ZUSYCO-MD",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by AmmuBot (mrAmaan) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,11 +13,11 @@
     "automation",
     "nodejs"
   ],
-  "author": "AmmuBot (mrAmaan)",
+  "author": "DarkMakerofc (mrnima)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "npm:mrAmaan-baileys@6.0.5",
+    "@whiskeysockets/baileys": "npm:mrnima-baileys@6.0.5",
     "awesome-phonenumber": "^6.2.0",
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amaanmhd/AMMU_BOT"
+    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/issues?q=is%3Aopen+is%3Aissue+archived+ammu+bot+assignee%3Aamaanmhd"
+    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD/issues"
   },
-  "homepage": "https://github.com/amaanmhd/AMMU_BOT"
+  "homepage": "https://github.com/DarkMakerofc/ZUSYCO-MD#readme"
 }
